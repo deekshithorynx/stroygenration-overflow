@@ -51,7 +51,7 @@ def run_story_pipeline(title: str, genre: str, age_group: str = "5–10"):
     print("✅ Story Generated.")
 
     # Step 3: Pages
-    pages = split_story_into_pages(story, total_pages=2)
+    pages = split_story_into_pages(story, total_pages=20)
 
     # Step 4: Images
     for page in pages:
