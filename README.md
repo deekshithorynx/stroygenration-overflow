@@ -2,6 +2,8 @@
 
 This project is a creative pipeline for generating safe, illustrated children's stories using OpenAI's GPT-4 and DALL·E 3. Users simply input a story title and genre, and the tool generates a lovable main character, a 20-page story, and corresponding illustrations.
 
+
+
 ---
 
 ## ✨ Features
