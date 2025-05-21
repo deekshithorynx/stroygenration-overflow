@@ -17,8 +17,7 @@ from utils import split_story_into_pages
 #openai=client # diable as above
 # Load API keys
 load_dotenv()
-openai.api_key = "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"
-
+openai.api_key = # Input the api/scret key
 def generate_image(prompt: str) -> str:
     response = openai.Image.create(
         model="dall-e-3",
